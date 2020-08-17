@@ -1,0 +1,47 @@
+.pic{
+    background-size: cover;
+    background-attachment: fixed;
+background-repeat: no-repeat;
+}
+.headd{
+    text-align: center;
+}
+ul{
+margin-left: 50%;
+list-style-type: none;
+overflow: hidden;
+
+}
+li a{
+    width: auto;
+    border: 20px;
+    padding:20px;
+    display: block;
+    float: left;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: white;
+}
+li{
+text-align: right;
+}
+.st{
+    margin: 20px;
+    border-radius:20px;
+    padding: 10px;
+    background-color: violet;
+    float: right;
+    text-align: center;
+    color: teal;
+    display: table;
+    border-block-end-style: groove;
+}
+.picc{
+    opacity: 1;
+}
+.picc:hover.piccc{
+    opacity: .5;
+    transition: .5 ease;
+
+}
